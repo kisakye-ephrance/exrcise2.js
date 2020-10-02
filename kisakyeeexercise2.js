@@ -35,7 +35,7 @@ return avg
 //Line 36 declares a function crsmark with a parameter (a)
 function crsmark(a)
 {
-//Line 39 declares a variable exm and assigns a value of 
+//Line 39 declares a variable exm and assigns a value of avg(2)*(a/100)
 let exm = avg(2)*(a/100)
 //Line 41 ends the execution of the function in line 41 and returns the value of exm
  return exm
